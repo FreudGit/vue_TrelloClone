@@ -1,0 +1,48 @@
+{
+    "name": "Nuxt Trello Clone (with nuxt/ui)",
+    "Columns": [
+        {
+            "id": "111",
+            "name": "To Do",
+            "tasks": [
+                {
+                    "id": "58d2d24e-c55c-43b0-aa2d-18c3cbc388b3",
+                    "name": "Task 1",
+                    "description": "This is task 1",
+                    "status": "To Do"
+                },
+                {
+                    "id": "02b9819b-09f7-4d50-b210-a5ab8db8760f",
+                    "name": "Task 2",
+                    "description": "This is task 2",
+                    "status": "To Do"
+                }
+            ]
+        },
+        {
+            "id": "222",
+            "name": "In Progress",
+            "tasks": [
+                {
+                    "id": "6abe8c29-44b9-4cb6-a673-c63ac567bb3c",
+                    "name": "Task 3",
+                    "description": "This is task 3",
+                    "status": "In Progress"
+                }
+            ]
+        },
+        {
+            "id": "333",
+            "name": "Done",
+            "tasks": [
+                {
+                    "id": "722b6536-4b01-46a6-b605-44b707d78171",
+                    "name": "Task 4",
+                    "description": "This is task 4",
+                    "status": "Done"
+                }
+            ]
+        }
+    ]
+
+}
